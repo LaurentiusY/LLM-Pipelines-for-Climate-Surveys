@@ -15,9 +15,6 @@ env/
 .env.*
 !.env.example
 
-# Data files (large)
-data/
-
 # Output files
 runs/
 *.json
